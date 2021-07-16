@@ -1,6 +1,6 @@
 # Heera Launcher
 
-HeeraOS's full-screen application launcher.
+HeeraOS's full-screen application launcher.based on cyber-launcher(https://github.com/cyberos/cyber-launcher)
 
 ## Dependencies
 
